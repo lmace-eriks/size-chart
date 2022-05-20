@@ -1,0 +1,6 @@
+{
+  "sizechart": {
+    "component": "SizeChart",
+    "composition": "children"
+  }
+}
